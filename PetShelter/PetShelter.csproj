@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\PetShelter-XX333\Model\Model.csproj" />
+    <ProjectReference Include="..\Model\Model.csproj" />
   </ItemGroup>
 
   <ItemGroup>
